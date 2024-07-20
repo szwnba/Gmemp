@@ -1,4 +1,4 @@
-let media="https://cdn.jsdelivr.net/gh/Meekdai/Gmemp@main/media/"
+let media="media/"
 
 // Cache references to DOM elements.
 let elms = ['track','artist', 'timer', 'duration','post', 'playBtn', 'pauseBtn', 'prevBtn', 'nextBtn', 'playlistBtn', 'postBtn', 'waveBtn', 'volumeBtn', 'progress', 'progressBar','waveCanvas', 'loading', 'playlist', 'list', 'volume', 'barEmpty', 'barFull', 'sliderBtn'];
